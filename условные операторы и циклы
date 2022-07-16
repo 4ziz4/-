@@ -1,0 +1,12 @@
+class Main {
+  public static void main(String[] args) {
+    int x = -9;
+     if (x > 0) {
+       System.out.println("x =" + x + "положительно");
+     } 
+    else {
+      System.out.println("x =" + x + "НЕположительно");
+    }
+  }
+}
+ 
