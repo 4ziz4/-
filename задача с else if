@@ -1,0 +1,14 @@
+class Main {
+  public static void main(String[] args) {
+    int x = 7;
+    if (x == 3) {
+      System.out.println("Хорошо");
+    }
+    else if (x == 4) {
+      System.out.println("Не хорошо");
+    }
+    else if (x == 7) {
+      System.out.println("отлично");
+    }
+  }
+}
