@@ -1,0 +1,21 @@
+class Main {
+  public static void main(String[] args) {
+    int x = 7;
+    switch (x) {
+      case 2:
+        System.out.println("Хорошо");
+        break;
+      case 8: 
+        System.out.println("Не хорошо");
+        break;
+      case 6:
+        System.out.println("отлично");
+        break;
+      default:
+        System.out.println("что то странное");
+    }
+  }
+}
+        
+
+
